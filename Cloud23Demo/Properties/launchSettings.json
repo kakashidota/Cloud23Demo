@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Cloud23Demo": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7146",
+      "launchBrowser": false
+    }
+  }
+}
